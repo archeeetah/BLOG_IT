@@ -4,6 +4,10 @@
 **Blog It** is a Flutter application that fetches and displays data from an external API. It demonstrates essential Flutter development skills such as API integration, state management, asynchronous operations, and UI updates. The app also uses Firebase for backend functionalities and is designed with scalability in mind for future enhancements.
 
 ## Features
+- Login/Signup Integrated with Firebase
+- Profile Section for user editing
+- Main Dashboard displays the Blog title and takes the user to another detailed page when clicked on the title
+- Added Extra Features like Explore page, Add Blog page, and View My Blog page 
 - Fetches data from a public API (**https://jsonplaceholder.typicode.com/posts**).
 - Displays post titles in a scrollable **ListView**.
 - Implements a **CircularProgressIndicator** for a seamless user experience.
