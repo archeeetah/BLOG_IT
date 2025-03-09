@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313250742985",
+    "project_id": "blogpost-947f5",
+    "storage_bucket": "blogpost-947f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313250742985:android:554b390883b5574311c318",
+        "android_client_info": {
+          "package_name": "com.example.zylentrix_blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-citxSbxEDrnQFAxdGk-agCX80wJp2oo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
