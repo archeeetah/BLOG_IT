@@ -52,7 +52,7 @@ Ensure you have the following installed:
 - Errors are handled to provide a smooth user experience.
 
 ## Future Enhancements
-- **Better Code Architecture**: Implementing a more modular approach using Provider or Riverpod for state management.
+- **Better Code Architecture**: Implementing a cleaner and more understandable code structure.
 - **Add More Screens**: Expanding functionalities such as post details, user profiles, and comments.
 - **Enhance UI and User Experience**: Improving design, animations, and navigation for a more intuitive interface.
 
