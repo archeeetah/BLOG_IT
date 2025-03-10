@@ -1,4 +1,4 @@
-# Blog It - A Simple API-Fetching Flutter Application
+# Blog It - A Simple Application to be Updated with the Latest Trends 
 
 ## Overview
 **Blog It** is a feature-rich Flutter application designed for creating, updating, reading, and managing blogs seamlessly. It integrates an external API to fetch and display blog data while leveraging Firebase for backend functionalities, ensuring a smooth and secure user experience.
